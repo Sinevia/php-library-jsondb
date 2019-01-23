@@ -1,4 +1,7 @@
 <?php
+
+namespace Sinevia;
+
 class JsonDb {
     public $data = [];
     public $filePath = null;
