@@ -1,0 +1,21 @@
+{
+    "name": "sinevia/php-library-jsondb",
+    "description": "PHP Library JsonDb",
+    "type": "library",
+    "keywords": ["jsondb", "library", "php", "sinevia"],    
+    "homepage": "http://github.com/sinevia/php-library-jsondb",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Milan Lesichkov",
+            "email": "lesichkovm@gmail.com",
+            "homepage": "http://lesichkov.co.uk",
+            "role": "Lead Developer"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/JsonDb.php"
+        ]
+    }
+}
