@@ -3,6 +3,12 @@
 Easy to use key value storage, stored to a JSON file.
 Great for prototyping.
 
+## Installation ##
+
+```
+composer require sinevia/php-library-jsondb
+```
+
 ## Usage ##
 
 ```php
